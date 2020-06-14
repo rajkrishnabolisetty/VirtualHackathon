@@ -28,5 +28,16 @@
 <li>LexBot  {JS}</li>
 <li>DynamoDB {JS}</li>
 <li>Integrate Into Website --&gt; Kommunicate {JS}</li>
-</ol>
 
+</ol>
+<ol>
+  <li></li>
+  <li></li>
+   <li></li>
+  <li></li>
+   <li></li>
+  <li></li>
+   <li></li>
+  <li></li>
+   <li></li>
+  <li></li>
